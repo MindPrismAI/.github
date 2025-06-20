@@ -15,4 +15,4 @@ Our key innovations:
 MindPrism empowers R&D, product teams, and decision-makers with explainable, actionable intelligence.
 Join us in shaping the next era of AI you can trust and verify.
 
-[White paper](../MindPrism%20white%20paper%200.1.pdf)
+[White paper](../MindPrism%20white%20paper%200.2.pdf)
