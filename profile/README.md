@@ -16,3 +16,4 @@ MindPrism empowers R&D, product teams, and decision-makers with explainable, act
 Join us in shaping the next era of AI you can trust and verify.
 
 [White paper](../MindPrism%20white%20paper%200.2.pdf)
+[FAQ for investors](INVEST_FAQ.md)
